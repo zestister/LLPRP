@@ -1,1 +1,1 @@
-本项目基于Spring Boot和vue出发，用了my sql和redis两个数据库，利用postman查看前后端传输数据。识别系统部署在云端，耦合死了，需要自行修改相应的模块。
+基于Spring Boot的逻辑语言识别集成平台，本项目基于Spring Boot和vue出发，用了my sql和redis两个数据库，利用postman查看前后端传输数据。识别系统部署在云端，耦合死了，需要自行修改相应的模块。
